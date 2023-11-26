@@ -1,0 +1,15 @@
+git status: to check the status of branch
+
+git log: to check the last commits
+
+git clone <git link>: To clone repository
+
+git log --patch: extra details regarding commits
+
+git add <file name>:Add file to staged state from modified state
+
+git restore --staged <file name>: modified state from staged state
+
+git commit: file is commited to local repo
+
+git push origin master: changes are pushed to server
